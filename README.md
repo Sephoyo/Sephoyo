@@ -34,8 +34,8 @@
 | Projet | Description | Techno |
 |---|---|---|
 | [Portfolio](https://josephbaert.fr) | Mon portfolio, avec une scène 3D dans l'en-tête | Next.js · TypeScript · Three.js |
-| [John'cremental (site)](https://github.com/Sephoyo/John-cremental-site) | Le site de mon jeu incrémental indé | JavaScript |
-| [Bierothèque](https://github.com/Sephoyo/bierotheque) | Catalogue de bières | PHP |
+| [John'cremental](https://johncremental.josephbaert.fr) | Le site de mon jeu incrémental indé | JavaScript |
+| [Bierothèque](https://bierotheque.josephbaert.fr) | Catalogue de bières | PHP |
 
 ### 📊 Stats
 
